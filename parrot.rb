@@ -1,6 +1,6 @@
 require "spec_helper"
  def parrot(phrase = "Squawk!")
-   parrot = "pretty bird!"
+   phrase = "pretty bird!"
   puts "Squawk!"
     returns phrase
     end
